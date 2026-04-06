@@ -1,0 +1,27 @@
+transaction_id,date,account_id,merchant,category,amount,transaction_type,location,payment_method,status
+1,2024-01-05,ACC1001,AMZN,Shopping,-45.99,debit,NY,card,completed
+2,2024-01-06,ACC1002,Starbucks,Food,-8.50,debit,NJ,card,completed
+3,2024-01-07,ACC1001,Amazon.com,shopping,-120.00,debit,NY,card,completed
+4,2024-01-08,ACC1003,,Travel,-300.00,debit,CA,card,failed
+5,2024-01-09,ACC1004,Uber Trip,transportation,-23.45,debit,CA,card,completed
+6,2024-01-10,ACC1005,Walmart Inc,Groceries,-89.32,debit,TX,card,completed
+7,2024-01-11,ACC1006,SBUX,food & drink,-5.75,debit,NJ,card,completed
+8,2024-01-12,ACC1007,Netflix,Entertainment,-15.99,debit,CA,card,completed
+9,2024-01-13,ACC1008,APPLE.COM,Shopping,-999.99,debit,CA,card,completed
+10,2024-01-14,ACC1009,Amazon,Shopping,2500.00,credit,WA,ach transfer,completed
+11,2024-01-15,ACC1010,Uber,Transport,-18.20,debit,CA,card,completed
+12,2024-01-16,,Amazon,Shopping,-42.00,debit,NY,card,completed
+13,not_a_date,ACC1012,Target,Shopping,-60.00,debit,NY,card,completed
+14,2024-01-18,ACC1013,AMZN,Shopping,invalid_amount,debit,NY,card,completed
+15,2024-01-19,ACC1014,Starbucks Coffee,Food,-7.25,debit,NJ,card,completed
+16,2024-01-20,ACC1015,Wal-Mart,groceries,-102.45,debit,TX,card,completed
+17,2024-01-21,ACC1016,Paypal,Shopping,-55.00,debit,CA,digital wallet,completed
+18,2024-01-22,ACC1017,Amazon.com,Shopping,-33.33,debit,WA,card,pending
+19,2024-01-23,ACC1018,Uber Trip,Transportation,-19.99,debit,CA,card,completed
+20,2024-01-24,ACC1019,AMZN,Shopping,-77.77,debit,NY,card,completed
+3,2024-01-07,ACC1001,Amazon.com,shopping,-120.00,debit,NY,card,completed
+21,2024-01-25,ACC1020,,Shopping,-12.00,debit,NY,card,completed
+22,2024-01-26,ACC1021,Best Buy,Electronics,-450.00,debit,CA,card,completed
+23,2024-01-27,ACC1022,Delta Airlines,Travel,-800.00,debit,GA,card,completed
+24,2024-01-28,ACC1023,Airbnb,Travel,-650.00,debit,CA,card,completed
+25,2024-01-29,ACC1024,Netflix,Entertainment,-15.99,debit,CA,card,completed
